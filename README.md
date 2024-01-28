@@ -1,2 +1,2 @@
-# Exploring Market Trends with AtliQ Hardware Insights
-AtliQ Hardware, a prominent computer hardware manufacturer in India with a global presence, recognized the need for timely and data-driven decision-making. 
+# SQL-Project-Consumer-Goods-Ad-hoc-Insights
+This is a Data Analytics project I have done primarily using SQL (for querying) and Power BI (visualize and gain Insights). This is Resume challenge-4 of Codebasics SQL Project Challenge.
